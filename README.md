@@ -5,4 +5,4 @@ This repo is used for the "Fun with GeometryReader" series on my website: https:
 
 This repo contains the assets needed to start the Parallax Scrolling example used to build this:
 
-(Example/Parallax.gif)
+![Parallax Example](/Example/Parallax.gif)
